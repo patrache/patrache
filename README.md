@@ -65,8 +65,8 @@
 > 브랜드-크리에이터 매칭, 캠페인 관리, 성과 분석 대시보드, 픽셀 트래킹
 > 
 > **Frontend** Next.js 15 · React · Tailwind · Vercel
-> **Backend** Spring Boot · PostgreSQL · Redis
-> **Infra** AWS Amplify · Lambda · S3 → **GCP Cloud Run · Cloud SQL · Compute Engine** 으로 마이그레이션
+> **Backend** Nest.js
+> **Infra** AWS Amplify · Lambda · S3 → **GCP Cloud Run · Cloud SQL · Compute Engine** 으로 마이그레이션 (s3 유지)
 
 🗺️ **[TripHorizon](https://travel.patrache.com)** `Early Stage` — 3D 여행 기록 플랫폼
 > 3D 세계 지도에 방문 지역 사진 마스킹, AI 경로 최적화(TSP), 숙소·항공 예약 연동, 실시간 협업 편집
