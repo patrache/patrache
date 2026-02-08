@@ -2,7 +2,7 @@
 
 **Full-Stack Developer & Tech Lead**
 
-[![portfolio](https://img.shields.io/badge/glowb.io-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio.patrache.com)
+[![portfolio](https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio.patrache.com)
 [![Email](https://img.shields.io/badge/ssk5442@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:ssk5442@naver.com)
 
 ---
